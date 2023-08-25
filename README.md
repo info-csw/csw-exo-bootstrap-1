@@ -45,6 +45,6 @@
 
 ## Conseils :
 
-- N'utilisez pas de CSS supplémentaire; tout doit être réalisé avec les classes Bootstrap.
+- N'utilisez pas de CSS supplémentaire pour cet exercice; tout doit être réalisé avec les classes Bootstrap. Si, dans des projets futurs, vous avez besoin d'ajouter du CSS personnalisé, assurez-vous de le faire dans un fichier CSS séparé, sans modifier le fichier Bootstrap original.
 - Parcourez la documentation de Bootstrap pour vous familiariser avec les différentes classes et composants disponibles.
 - Assurez-vous de tester votre galerie sur différents appareils et navigateurs pour confirmer sa responsivité.
