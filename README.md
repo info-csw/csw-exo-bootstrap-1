@@ -27,6 +27,11 @@
 
 - **Barre de navigation** :
   - Utilisez le composant `Navbar` de Bootstrap avec les classes `.navbar`, `.navbar-expand-lg`, et `.navbar-light` pour créer une barre de navigation claire et responsive.
+  - Elle contiendra les liens suivants :
+    - Un logo représentant la galerie
+    - Oeuvres d'art : Renvoyant à la page principale
+    - Contact : Renvoyant vers un formulaire de contact (ne doit pas être implémentée)
+    - Une zone permettant de faire une recherche sur le oeuvre (ne doit pas être implémentée)
   
 - **Liens de Navigation** :
   - Utilisez le composant `Nav` de Bootstrap avec les classes `.nav` et `.nav-item` pour les liens de navigation individuels.
